@@ -172,7 +172,7 @@ section{
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
   /* border:.1rem solid rgba(0,0,0,.3); */
   border-top: 0;
-  border:5px solid red;
+  border: 5px solid red;
 }
 
 .home .home-slider .box{
