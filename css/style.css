@@ -169,15 +169,16 @@ section{
   padding-right: 50px;
   padding-bottom: 0px;
   padding-left: 50px;
-
 }
 
 .home .home-slider{
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
    border:.1rem solid rgba(0,0,0,.3); 
    border-top: 0; 
-  
- 
+}
+
+.swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal{
+  padding-bottom: 270px;
 }
 
 .home .home-slider .box{
