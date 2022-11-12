@@ -165,7 +165,11 @@ section{
 }
 
 .home{
-  padding: 0px 50px 0px 50px;
+  padding-top: 0px;
+  padding-right: 50px;
+  padding-bottom: 0px;
+  padding-left: 50px;
+
 }
 
 .home .home-slider{
