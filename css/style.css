@@ -172,9 +172,8 @@ section{
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
   /* border:.1rem solid rgba(0,0,0,.3); */
   /* border-top: 0; */
-  border: 2px solid red;
-  margin-left: 100px!important;
-  margin-right: 100px!important;
+  border: 2px solid blue;
+ 
 }
 
 .home .home-slider .box{
@@ -186,7 +185,7 @@ section{
 
 .home .home-slider .box .content{
   position: absolute;
-  top:50%; left: 5%;
+  top:50%; left: 15%;
   transform: translateY(-50%);
   max-width: 50rem;
 }
