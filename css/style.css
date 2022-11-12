@@ -165,14 +165,14 @@ section{
 }
 
 .home{
-  padding-top: 0;
+  padding: 0px 50px 0px 50px;
 }
 
 .home .home-slider{
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
-  /* border:.1rem solid rgba(0,0,0,.3); */
-  /* border-top: 0; */
-  border: 2px solid blue;
+   border:.1rem solid rgba(0,0,0,.3); 
+   border-top: 0; 
+  
  
 }
 
