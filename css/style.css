@@ -165,9 +165,9 @@ section{
 }
 
 .home{
-  padding-top: 0px;
+  padding-top: 20px;
   padding-right: 50px;
-  padding-bottom: 0px;
+  padding-bottom: 20px;
   padding-left: 50px;
 }
 
@@ -177,9 +177,6 @@ section{
    border-top: 0; 
 }
 
-.swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal{
-  padding-bottom: 270px;
-}
 
 .home .home-slider .box{
   background-size: cover !important;
